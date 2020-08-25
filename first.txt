@@ -2,3 +2,4 @@ hello world
 from live editor
 edit
 smartgit
+live edit smartgit
